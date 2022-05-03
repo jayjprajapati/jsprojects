@@ -1,0 +1,10 @@
+{
+  "folders": [
+    {
+      "path": "..\\..\\18-forkify"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "16-Asynchronous"
+  }
+}
